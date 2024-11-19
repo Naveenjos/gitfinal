@@ -1,3 +1,5 @@
+program for number pattern
+
 namespace number_pattern
 {
     class Program
